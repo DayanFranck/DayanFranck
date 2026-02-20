@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey there, I’m Franck 👋
 
-<!--
-**DayanFranck/DayanFranck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and build reliable software systems.
 
-Here are some ideas to get you started:
+💼 Freelance developer  
+💡 Passionate about software architecture & system design  
+⚙️ Working with **JavaScript**, **Java**, and **Rust**  
+📚 Always learning, always building  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** JavaScript • Java • Rust  
+- **Focus:** Software Architecture • Clean Design • Performance  
+- **Interests:** Scalable Systems • Backend Engineering • Problem Solving  
+
+---
+
+### 🚀 What I Care About
+
+✔ Building maintainable systems  
+✔ Writing clean and efficient code  
+✔ Designing robust architectures  
+✔ Continuous improvement  
+
+---
+
+### 📫 Let’s Connect
+
+Feel free to explore my repositories and projects.
