@@ -17,7 +17,7 @@ I design and build reliable software systems.
 
 ---
 
-### 🚀 What I Care About
+### 🚀 [What I Care About](https://mendouga-ayissi-franck-dayan.netlify.app/#work)
 
 ✔ Building maintainable systems  
 ✔ Writing clean and efficient code  
@@ -26,6 +26,6 @@ I design and build reliable software systems.
 
 ---
 
-### 📫 Let’s Connect
+### 📫 [Let’s Connect](https://mendouga-ayissi-franck-dayan.netlify.app/#contact)
 
 Feel free to explore my repositories and projects.
